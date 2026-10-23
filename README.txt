@@ -1,16 +1,24 @@
-AQUILA WEATHER PROJECT - CLEAN FILE SET
+ WeatherNow – Weather Forecast Website
 
-This folder contains the files referenced by newweather2.html plus about2.html.
+WeatherNow is a simple and responsive weather forecasting website that displays the current weather conditions and a 7-day weather forecast for a searched city.
 
-Main page:
-- newweather2.html
+ Features
 
-Linked page:
-- about2.html
+-  Search weather by city name.
+- Display temperature, humidity, and pressure.
+- Show wind speed, sunrise, and sunset times.
+- Display a 7-day weather forecast.
+- Responsive design with a simple and attractive UI.
 
-All local image assets referenced by the website are included.
+Technologies Used
 
-Note:
-The original newweather2.html contains an OpenWeatherMap API key in client-side JavaScript.
-For a public/production deployment, rotate that exposed key and move API access behind a backend
-or otherwise secure it.
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
+
+How to Run
+
+1. Download or clone this repository.
+2. Open "index.html" in your browser.
+3. Enter a city name and click the search icon to view the weather.
