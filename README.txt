@@ -1,8 +1,8 @@
- WeatherNow – Weather Forecast Website
+# WeatherNow – Weather Forecast Website
 
 WeatherNow is a simple and responsive weather forecasting website that displays the current weather conditions and a 7-day weather forecast for a searched city.
 
- Features
+ # Features
 
 -  Search weather by city name.
 - Display temperature, humidity, and pressure.
@@ -10,14 +10,14 @@ WeatherNow is a simple and responsive weather forecasting website that displays 
 - Display a 7-day weather forecast.
 - Responsive design with a simple and attractive UI.
 
-Technologies Used
+# Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - OpenWeatherMap API
 
-How to Run
+# How to Run
 
 1. Download or clone this repository.
 2. Open "index.html" in your browser.
